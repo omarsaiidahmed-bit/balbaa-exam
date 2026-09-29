@@ -1,0 +1,452 @@
+[
+  {
+    "question_id": "Q0001",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-004",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج أكسا أصفر اللون (نسخة الصيدلية) للعلاج اليومي acute أو (في حالة العلاج الشهري يتم سحبه من السيستم مباشرة بدون نموذج CHRONIC)",
+    "sourceText": "• نموذج أكسا أصفر اللون (نسخة الصيدلية) للعلاج اليومي acute أو (في حالة العلاج الشهري يتم سحبه من السيستم مباشرة بدون نموذج CHRONIC)",
+    "sourceLoc": "Line 75 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0003",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-005",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة كارنيه المستفيد + صورة بطاقة الرقم القومي",
+    "sourceText": "• صورة كارنيه المستفيد + صورة بطاقة الرقم القومي",
+    "sourceLoc": "Line 76 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0017",
+    "company": "الأهلي للخدمات الطبية",
+    "rule_id": "AMS-002",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم الادخال أولا على Nicedeer https://nicedeer.net/Account/Login",
+    "sourceText": "يتم الادخال أولا على Nicedeer ⏎ https://nicedeer.net/Account/Login",
+    "sourceLoc": "Lines 116-117 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0018",
+    "company": "الأهلي للخدمات الطبية",
+    "rule_id": "AMS-003",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] هام جدا يتم التاكد من الختم اللي علي الروشتة هو اللي سمع في السيستم",
+    "sourceText": "هام جدا يتم التاكد من الختم اللي علي الروشتة هو اللي سمع في السيستم",
+    "sourceLoc": "Line 118 | Section: أعلى قسم الشركة (قبل العناوين) ; also Lines 155-155"
+  },
+  {
+    "question_id": "Q0041",
+    "company": "أوميجا كير (Omega care)",
+    "rule_id": "OMC-002",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم الادخال أولا على Omegacare",
+    "sourceText": "يتم الادخال أولا على Omegacare",
+    "sourceLoc": "Line 171 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0044",
+    "company": "أوميجا كير (Omega care)",
+    "rule_id": "OMC-005",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج اوميجا كير لازم يكون مكتوب نسخة الصيدلية مش باللون.",
+    "sourceText": "1. نموذج اوميجا كير لازم يكون مكتوب نسخة الصيدلية مش باللون.",
+    "sourceLoc": "Line 177 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0052",
+    "company": "ايجي ميد (Egymed)",
+    "rule_id": "EGM-002",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم الادخال أولا على EGYMED http://www.egymed.org/egymed/Security/SignIn.aspx",
+    "sourceText": "يتم الادخال أولا على EGYMED ⏎ http://www.egymed.org/egymed/Security/SignIn.aspx",
+    "sourceLoc": "Lines 217-218 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0054",
+    "company": "ايجي ميد (Egymed)",
+    "rule_id": "EGM-004",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] كارنيه + بطاقة المستفيد (أو بطاقة المستلم)",
+    "sourceText": "• كارنيه + بطاقة المستفيد (أو بطاقة المستلم)",
+    "sourceLoc": "Line 222 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0065",
+    "company": "سمارت كير (Smart care)",
+    "rule_id": "SMC-002",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم الادخال أولا على SMART CARE http://www.meds.smart-medicalservices.com.s3-website.eu-central-1.amazonaws.com/#/login",
+    "sourceText": "يتم الادخال أولا على SMART CARE ⏎ http://www.meds.smart-medicalservices.com.s3-website.eu-central-1.amazonaws.com/#/login",
+    "sourceLoc": "Lines 253-254 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0066",
+    "company": "سمارت كير (Smart care)",
+    "rule_id": "SMC-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج الشركة (الاصفر) + ختم الجهة الطبية.",
+    "sourceText": "• نموذج الشركة (الاصفر) + ختم الجهة الطبية.",
+    "sourceLoc": "Line 257 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0074",
+    "company": "صحتك (Limitless)",
+    "rule_id": "LMT-002",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم الادخال أولا على Nicedeer https://nicedeer.net/Account/Login",
+    "sourceText": "يتم الادخال أولا على Nicedeer ⏎ https://nicedeer.net/Account/Login",
+    "sourceLoc": "Lines 307-308 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0075",
+    "company": "صحتك (Limitless)",
+    "rule_id": "LMT-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] روشتة خارجية أو نموذج مطبوع + ختم + تشخيص.",
+    "sourceText": "• روشتة خارجية أو نموذج مطبوع + ختم + تشخيص.",
+    "sourceLoc": "Line 311 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0085",
+    "company": "صحة وان (Seha One)",
+    "rule_id": "SHO-002",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم الادخال أولا على https://provider.sehatech.xyz/login",
+    "sourceText": "يتم الادخال أولا على ⏎ https://provider.sehatech.xyz/login",
+    "sourceLoc": "Lines 344-345 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0086",
+    "company": "صحة وان (Seha One)",
+    "rule_id": "SHO-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة كارنيه المريض",
+    "sourceText": "• صورة كارنيه المريض",
+    "sourceLoc": "Line 348 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0097",
+    "company": "عناية مصر",
+    "rule_id": "ENM-005",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم الادخال أولا على Nicedeer https://nicedeer.net/Account/Login",
+    "sourceText": "يتم الادخال أولا على Nicedeer ⏎ https://nicedeer.net/Account/Login",
+    "sourceLoc": "Lines 376-377 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0101",
+    "company": "عناية مصر",
+    "rule_id": "ENM-009",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة الكارنيه للمستفيد (ساري)+صورة البطاقة للمستلم",
+    "sourceText": "4. صورة الكارنيه للمستفيد (ساري)+صورة البطاقة للمستلم",
+    "sourceLoc": "Line 383 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0118",
+    "company": "كير بلس (Care plus)",
+    "rule_id": "CRP-002",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم الادخال أولا على Yodawy https://portal.yodawy.com/#/Login?_k=wzhtk8",
+    "sourceText": "يتم الادخال أولا على Yodawy ⏎ https://portal.yodawy.com/#/Login?_k=wzhtk8",
+    "sourceLoc": "Lines 432-433 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0119",
+    "company": "كير بلس (Care plus)",
+    "rule_id": "CRP-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج علاج يومي (ACUTE) أو نموذج علاج مزمن عليه ختم الجهة الطبية + ختم كير بلاس",
+    "sourceText": "• نموذج علاج يومي (ACUTE) أو نموذج علاج مزمن عليه ختم الجهة الطبية + ختم كير بلاس",
+    "sourceLoc": "Line 436 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0128",
+    "company": "ميد رايت (Medright)",
+    "rule_id": "MDR-002",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم الادخال أولا على medright https://onlinesystem.med-right.com/ETPAWebApplication/login",
+    "sourceText": "يتم الادخال أولا على medright ⏎ https://onlinesystem.med-right.com/ETPAWebApplication/login",
+    "sourceLoc": "Lines 462-463 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0129",
+    "company": "ميد رايت (Medright)",
+    "rule_id": "MDR-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج ميدرايت (نسخة الصيدلية) مختوم بختم الجهة الطبية.",
+    "sourceText": "• نموذج ميدرايت (نسخة الصيدلية) مختوم بختم الجهة الطبية.",
+    "sourceLoc": "Line 466 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0144",
+    "company": "ميد شور (Med sure)",
+    "rule_id": "MDS-002",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم الادخال أولا على Nicedeer https://nicedeer.net/Account/Login",
+    "sourceText": "يتم الادخال أولا على Nicedeer ⏎ https://nicedeer.net/Account/Login",
+    "sourceLoc": "Lines 504-505 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0145",
+    "company": "ميد شور (Med sure)",
+    "rule_id": "MDS-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج ميد شور نسخة الصيدلية مختوم أو روشتة خارجية يتم كتابتها في النوتس بدون نموذج روشتة خارجية.",
+    "sourceText": "1. نموذج ميد شور نسخة الصيدلية مختوم أو روشتة خارجية يتم كتابتها في النوتس بدون نموذج روشتة خارجية.",
+    "sourceLoc": "Line 508 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0166",
+    "company": "نكست كير (Nextcare)",
+    "rule_id": "NXT-003",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم الادخال أولا على Pulse https://pulse-egp.tatsh.com/Login2.aspx?ReturnUrl=%2FLogin2",
+    "sourceText": "يتم الادخال أولا على Pulse ⏎ https://pulse-egp.tatsh.com/Login2.aspx?ReturnUrl=%2FLogin2",
+    "sourceLoc": "Lines 552-553 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0167",
+    "company": "نكست كير (Nextcare)",
+    "rule_id": "NXT-004",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج نكست كير الأصفر (نسخة الصيدلية) مختوم أو روشتة خارجية (يكتب في ملاحظات الموافقة بدون نموذج روشتة خارجية) أو موافقة سيستم فقط موجهة لصيدلية بلبع فرع (...) بمرفقات أو بدون مرفقات.",
+    "sourceText": "1. نموذج نكست كير الأصفر (نسخة الصيدلية) مختوم أو روشتة خارجية (يكتب في ملاحظات الموافقة بدون نموذج روشتة خارجية) أو موافقة سيستم فقط موجهة لصيدلية بلبع فرع (...) بمرفقات أو بدون مرفقات.",
+    "sourceLoc": "Line 556 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0199",
+    "company": "يوني كير (Unicare)",
+    "rule_id": "UNC-002",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] العلاج المزمن واليومي علي سيستم الخاص بيوني كير وليس يوادي",
+    "sourceText": "العلاج المزمن واليومي علي سيستم الخاص بيوني كير وليس يوادي",
+    "sourceLoc": "Line 614 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0200",
+    "company": "يوني كير (Unicare)",
+    "rule_id": "UNC-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج أصفر اللون مختوم + روشتة خارجية مختومة أو علاج مزمن من على السيستم",
+    "sourceText": "• نموذج أصفر اللون مختوم + روشتة خارجية مختومة أو علاج مزمن من على السيستم",
+    "sourceLoc": "Line 617 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0207",
+    "company": "يوني ميد (Unimed)",
+    "rule_id": "UNM-004",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج أصفر اللون مختوم + روشتة خارجية مختومة أو علاج مزمن من على السيستم",
+    "sourceText": "• نموذج أصفر اللون مختوم + روشتة خارجية مختومة أو علاج مزمن من على السيستم",
+    "sourceLoc": "Line 646 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0208",
+    "company": "يوني ميد (Unimed)",
+    "rule_id": "UNM-005",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة كارنيه المريض",
+    "sourceText": "• صورة كارنيه المريض",
+    "sourceLoc": "Line 647 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0213",
+    "company": "صان مصر",
+    "rule_id": "SNE-002",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم الادخال أولا على Nicedeer https://nicedeer.net/Account/Login",
+    "sourceText": "يتم الادخال أولا على Nicedeer ⏎ https://nicedeer.net/Account/Login",
+    "sourceLoc": "Lines 668-669 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0214",
+    "company": "صان مصر",
+    "rule_id": "SNE-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة الكارنية + صورة البطاقة",
+    "sourceText": "• صورة الكارنية + صورة البطاقة",
+    "sourceLoc": "Line 672 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0231",
+    "company": "ميدنت",
+    "rule_id": "MDN-005",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة الكارنية ساري.",
+    "sourceText": "• صورة الكارنية ساري.",
+    "sourceLoc": "Line 707 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0234",
+    "company": "ميدنت",
+    "rule_id": "MDN-009",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] شهر واحد فقط",
+    "sourceText": "• شهر واحد فقط",
+    "sourceLoc": "Line 713 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0246",
+    "company": "ميدى كونسلت",
+    "rule_id": "MDC-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة الكارنيه",
+    "sourceText": "2. صورة الكارنيه",
+    "sourceLoc": "Line 742 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0247",
+    "company": "ميدى كونسلت",
+    "rule_id": "MDC-005",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] حسب موافقة السيستم",
+    "sourceText": "• حسب موافقة السيستم",
+    "sourceLoc": "Line 746 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0251",
+    "company": "D M S",
+    "rule_id": "DMS-002",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] 1 كارنيه ساري +البطاقة الشخصية +توقيع المريض.",
+    "sourceText": "• 1 كارنيه ساري +البطاقة الشخصية +توقيع المريض.",
+    "sourceLoc": "Line 767 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0259",
+    "company": "D M S",
+    "rule_id": "DMS-010",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] من خلال الاونلاين سيستم",
+    "sourceText": "• من خلال الاونلاين سيستم",
+    "sourceLoc": "Line 777 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0276",
+    "company": "يونايتد (United)",
+    "rule_id": "UTD-002",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] كارنيه المستفيد (ساري)",
+    "sourceText": "• كارنيه المستفيد (ساري)",
+    "sourceLoc": "Line 819 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0278",
+    "company": "يونايتد (United)",
+    "rule_id": "UTD-007",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] لا يوجد (الا لو ذكر عكس ذلك فى الموافقة)",
+    "sourceText": "• لا يوجد (الا لو ذكر عكس ذلك فى الموافقة)",
+    "sourceLoc": "Line 826 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0281",
+    "company": "اسبك (ASPC)",
+    "rule_id": "ASP-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة كارنيه المستفيد وش و ظهر وللعامل صورة كارنيه العامل",
+    "sourceText": "• صورة كارنيه المستفيد وش و ظهر وللعامل صورة كارنيه العامل",
+    "sourceLoc": "Line 844 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0282",
+    "company": "اسبك (ASPC)",
+    "rule_id": "ASP-002",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج أو روشتة",
+    "sourceText": "• نموذج أو روشتة",
+    "sourceLoc": "Line 845 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0292",
+    "company": "أسواق فتح الله",
+    "rule_id": "AFT-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صرف online https://apps.aswaqfathalla.com/medical/",
+    "sourceText": "• صرف online ⏎ https://apps.aswaqfathalla.com/medical/",
+    "sourceLoc": "Lines 882-883 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0295",
+    "company": "أسواق فتح الله",
+    "rule_id": "AFT-006",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] لا يوجد حد أقصى بموافقة السيستم",
+    "sourceText": "• لا يوجد حد أقصى بموافقة السيستم",
+    "sourceLoc": "Line 888 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0301",
+    "company": "الأكاديمية العربية",
+    "rule_id": "AAC-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة الكارنيه أو البطاقة الرقم القومي",
+    "sourceText": "• صورة الكارنيه أو البطاقة الرقم القومي",
+    "sourceLoc": "Line 913 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0303",
+    "company": "الأكاديمية العربية",
+    "rule_id": "AAC-003",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] لا يوجد",
+    "sourceText": "• لا يوجد",
+    "sourceLoc": "Line 917 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0308",
+    "company": "أكسون",
+    "rule_id": "AXN-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] كارنيه صاحب الروشتة",
+    "sourceText": "• كارنيه صاحب الروشتة",
+    "sourceLoc": "Line 938 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0310",
+    "company": "أكسون",
+    "rule_id": "AXN-003",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] لا يوجد حسب موافقة السيستم",
+    "sourceText": "• لا يوجد حسب موافقة السيستم",
+    "sourceLoc": "Line 942 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0318",
+    "company": "الاسكندرية للبترول",
+    "rule_id": "APC-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة روشتة مختوم ختم الشركة شرط اساسي.",
+    "sourceText": "• صورة روشتة مختوم ختم الشركة شرط اساسي.",
+    "sourceLoc": "Line 968 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0323",
+    "company": "الاسكندرية للبترول",
+    "rule_id": "APC-015",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] مدة الصرف: أقصي مدة علاج هي شهر واحد و في حالة عدم تحديد مدة أو جرعة يتم صرف علبة من كل نوع.",
+    "sourceText": "• مدة الصرف: أقصي مدة علاج هي شهر واحد و في حالة عدم تحديد مدة أو جرعة يتم صرف علبة من كل نوع.",
+    "sourceLoc": "Line 984 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0335",
+    "company": "أموك",
+    "rule_id": "AMK-008",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] مدة الصرف: أقصي مدة علاج هي شهر واحد و في حالة عدم تحديد مدة أو جرعة يتم صرف علبة من كل نوع فيما لا يتعدي الشهر في حالة عدم تحديد تركيز يتم صرف أقل تركيز.",
+    "sourceText": "• مدة الصرف: أقصي مدة علاج هي شهر واحد و في حالة عدم تحديد مدة أو جرعة يتم صرف علبة من كل نوع فيما لا يتعدي الشهر في حالة عدم تحديد تركيز يتم صرف أقل تركيز.",
+    "sourceLoc": "Line 1024 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0336",
+    "company": "أموك",
+    "rule_id": "AMK-009",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] صلاحية الروشتة: صلاحية الروشتة أو النموذج شهر من تاريخه.",
+    "sourceText": "• صلاحية الروشتة: صلاحية الروشتة أو النموذج شهر من تاريخه.",
+    "sourceLoc": "Line 1025 | Section: مدة الصرف وصلاحية الروشتة"
+  }
+]

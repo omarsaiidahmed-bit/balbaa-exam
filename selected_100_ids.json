@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "question_id": "Q0001",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-004",
+    "category": "Dispensing Requirements",
+    "old_question": "وفقًا لقواعد شركة أكسا، ما النموذج المطلوب للعلاج اليومي (Acute)؟"
+  },
+  {
+    "id": 3,
+    "question_id": "Q0003",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-005",
+    "category": "Dispensing Requirements",
+    "old_question": "ما الوثيقتان المطلوبتان عند صرف أكسا؟"
+  },
+  {
+    "id": 17,
+    "question_id": "Q0017",
+    "company": "الأهلي للخدمات الطبية",
+    "rule_id": "AMS-002",
+    "category": "General / Header Notes",
+    "old_question": "ما السيستم المستخدم لشركة الأهلي للخدمات الطبية؟"
+  },
+  {
+    "id": 18,
+    "question_id": "Q0018",
+    "company": "الأهلي للخدمات الطبية",
+    "rule_id": "AMS-003",
+    "category": "General / Header Notes",
+    "old_question": "ما الذي يجب التأكد منه بخصوص الختم على روشتة الأهلي؟"
+  },
+  {
+    "id": 41,
+    "question_id": "Q0041",
+    "company": "أوميجا كير (Omega care)",
+    "rule_id": "OMC-002",
+    "category": "General / Header Notes",
+    "old_question": "ما السيستم المستخدم لشركة أوميجا كير؟"
+  },
+  {
+    "id": 44,
+    "question_id": "Q0044",
+    "company": "أوميجا كير (Omega care)",
+    "rule_id": "OMC-005",
+    "category": "Dispensing Requirements",
+    "old_question": "ماذا يجب أن يُكتب على نموذج أوميجا كير؟"
+  },
+  {
+    "id": 52,
+    "question_id": "Q0052",
+    "company": "ايجي ميد (Egymed)",
+    "rule_id": "EGM-002",
+    "category": "General / Header Notes",
+    "old_question": "ما السيستم المستخدم لشركة ايجي ميد؟"
+  },
+  {
+    "id": 54,
+    "question_id": "Q0054",
+    "company": "ايجي ميد (Egymed)",
+    "rule_id": "EGM-004",
+    "category": "Dispensing Requirements",
+    "old_question": "ما الوثائق المطلوبة في ايجي ميد؟"
+  },
+  {
+    "id": 65,
+    "question_id": "Q0065",
+    "company": "سمارت كير (Smart care)",
+    "rule_id": "SMC-002",
+    "category": "General / Header Notes",
+    "old_question": "ما السيستم المستخدم لشركة سمارت كير؟"
+  },
+  {
+    "id": 66,
+    "question_id": "Q0066",
+    "company": "سمارت كير (Smart care)",
+    "rule_id": "SMC-003",
+    "category": "Dispensing Requirements",
+    "old_question": "ما النموذج المطلوب في سمارت كير؟"
+  },
+  {
+    "id": 74,
+    "question_id": "Q0074",
+    "company": "صحتك (Limitless)",
+    "rule_id": "LMT-002",
+    "category": "General / Header Notes",
+    "old_question": "ما السيستم المستخدم لشركة صحتك (Limitless)؟"
+  },
+  {
+    "id": 75,
+    "question_id": "Q0075",
+    "company": "صحتك (Limitless)",
+    "rule_id": "LMT-003",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب على الروشتة/النموذج في صحتك؟"
+  },
+  {
+    "id": 85,
+    "question_id": "Q0085",
+    "company": "صحة وان (Seha One)",
+    "rule_id": "SHO-002",
+    "category": "General / Header Notes",
+    "old_question": "ما السيستم المستخدم لشركة صحة وان؟"
+  },
+  {
+    "id": 86,
+    "question_id": "Q0086",
+    "company": "صحة وان (Seha One)",
+    "rule_id": "SHO-003",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في صحة وان؟"
+  },
+  {
+    "id": 97,
+    "question_id": "Q0097",
+    "company": "عناية مصر",
+    "rule_id": "ENM-005",
+    "category": "General / Header Notes",
+    "old_question": "ما السيستم المستخدم لشركة عناية مصر؟"
+  },
+  {
+    "id": 101,
+    "question_id": "Q0101",
+    "company": "عناية مصر",
+    "rule_id": "ENM-009",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في عناية مصر بخصوص المستفيد؟"
+  },
+  {
+    "id": 118,
+    "question_id": "Q0118",
+    "company": "كير بلس (Care plus)",
+    "rule_id": "CRP-002",
+    "category": "General / Header Notes",
+    "old_question": "ما السيستم المستخدم لشركة كير بلس؟"
+  },
+  {
+    "id": 119,
+    "question_id": "Q0119",
+    "company": "كير بلس (Care plus)",
+    "rule_id": "CRP-003",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب على النموذج في كير بلس؟"
+  },
+  {
+    "id": 128,
+    "question_id": "Q0128",
+    "company": "ميد رايت (Medright)",
+    "rule_id": "MDR-002",
+    "category": "General / Header Notes",
+    "old_question": "ما السيستم المستخدم لشركة ميد رايت؟"
+  },
+  {
+    "id": 129,
+    "question_id": "Q0129",
+    "company": "ميد رايت (Medright)",
+    "rule_id": "MDR-003",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب على النموذج في ميد رايت؟"
+  },
+  {
+    "id": 144,
+    "question_id": "Q0144",
+    "company": "ميد شور (Med sure)",
+    "rule_id": "MDS-002",
+    "category": "General / Header Notes",
+    "old_question": "ما السيستم المستخدم لشركة ميد شور؟"
+  },
+  {
+    "id": 145,
+    "question_id": "Q0145",
+    "company": "ميد شور (Med sure)",
+    "rule_id": "MDS-003",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في ميد شور؟"
+  },
+  {
+    "id": 166,
+    "question_id": "Q0166",
+    "company": "نكست كير (Nextcare)",
+    "rule_id": "NXT-003",
+    "category": "General / Header Notes",
+    "old_question": "ما السيستم المستخدم لشركة نكست كير؟"
+  },
+  {
+    "id": 167,
+    "question_id": "Q0167",
+    "company": "نكست كير (Nextcare)",
+    "rule_id": "NXT-004",
+    "category": "Dispensing Requirements",
+    "old_question": "ما الذي تقبله نكست كير عند الصرف؟"
+  },
+  {
+    "id": 199,
+    "question_id": "Q0199",
+    "company": "يوني كير (Unicare)",
+    "rule_id": "UNC-002",
+    "category": "General / Header Notes",
+    "old_question": "في يوني كير، العلاج المزمن واليومي يُدخل على:"
+  },
+  {
+    "id": 200,
+    "question_id": "Q0200",
+    "company": "يوني كير (Unicare)",
+    "rule_id": "UNC-003",
+    "category": "Dispensing Requirements",
+    "old_question": "ما الذي تقبله يوني كير عند الصرف؟"
+  },
+  {
+    "id": 207,
+    "question_id": "Q0207",
+    "company": "يوني ميد (Unimed)",
+    "rule_id": "UNM-004",
+    "category": "Dispensing Requirements",
+    "old_question": "ما الذي تقبله يوني ميد عند الصرف؟"
+  },
+  {
+    "id": 208,
+    "question_id": "Q0208",
+    "company": "يوني ميد (Unimed)",
+    "rule_id": "UNM-005",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في يوني ميد؟"
+  },
+  {
+    "id": 213,
+    "question_id": "Q0213",
+    "company": "صان مصر",
+    "rule_id": "SNE-002",
+    "category": "General / Header Notes",
+    "old_question": "ما السيستم المستخدم لشركة صان مصر؟"
+  },
+  {
+    "id": 214,
+    "question_id": "Q0214",
+    "company": "صان مصر",
+    "rule_id": "SNE-003",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في صان مصر؟"
+  },
+  {
+    "id": 231,
+    "question_id": "Q0231",
+    "company": "ميدنت",
+    "rule_id": "MDN-005",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في ميدنت؟"
+  },
+  {
+    "id": 234,
+    "question_id": "Q0234",
+    "company": "ميدنت",
+    "rule_id": "MDN-009",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في ميدنت؟"
+  },
+  {
+    "id": 246,
+    "question_id": "Q0246",
+    "company": "ميدى كونسلت",
+    "rule_id": "MDC-003",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في ميدى كونسلت؟"
+  },
+  {
+    "id": 247,
+    "question_id": "Q0247",
+    "company": "ميدى كونسلت",
+    "rule_id": "MDC-005",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في ميدى كونسلت؟"
+  },
+  {
+    "id": 251,
+    "question_id": "Q0251",
+    "company": "D M S",
+    "rule_id": "DMS-002",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في DMS؟"
+  },
+  {
+    "id": 259,
+    "question_id": "Q0259",
+    "company": "D M S",
+    "rule_id": "DMS-010",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في DMS؟"
+  },
+  {
+    "id": 276,
+    "question_id": "Q0276",
+    "company": "يونايتد (United)",
+    "rule_id": "UTD-002",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في يونايتد؟"
+  },
+  {
+    "id": 278,
+    "question_id": "Q0278",
+    "company": "يونايتد (United)",
+    "rule_id": "UTD-007",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في يونايتد؟"
+  },
+  {
+    "id": 281,
+    "question_id": "Q0281",
+    "company": "اسبك (ASPC)",
+    "rule_id": "ASP-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في اسبك؟"
+  },
+  {
+    "id": 282,
+    "question_id": "Q0282",
+    "company": "اسبك (ASPC)",
+    "rule_id": "ASP-002",
+    "category": "Dispensing Requirements",
+    "old_question": "ما الذي تقبله اسبك عند الصرف؟"
+  },
+  {
+    "id": 292,
+    "question_id": "Q0292",
+    "company": "أسواق فتح الله",
+    "rule_id": "AFT-003",
+    "category": "Dispensing Requirements",
+    "old_question": "ما السيستم المستخدم لأسواق فتح الله؟"
+  },
+  {
+    "id": 295,
+    "question_id": "Q0295",
+    "company": "أسواق فتح الله",
+    "rule_id": "AFT-006",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في أسواق فتح الله؟"
+  },
+  {
+    "id": 301,
+    "question_id": "Q0301",
+    "company": "الأكاديمية العربية",
+    "rule_id": "AAC-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في الأكاديمية العربية؟"
+  },
+  {
+    "id": 303,
+    "question_id": "Q0303",
+    "company": "الأكاديمية العربية",
+    "rule_id": "AAC-003",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في الأكاديمية العربية؟"
+  },
+  {
+    "id": 308,
+    "question_id": "Q0308",
+    "company": "أكسون",
+    "rule_id": "AXN-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في أكسون؟"
+  },
+  {
+    "id": 310,
+    "question_id": "Q0310",
+    "company": "أكسون",
+    "rule_id": "AXN-003",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في أكسون؟"
+  },
+  {
+    "id": 318,
+    "question_id": "Q0318",
+    "company": "الاسكندرية للبترول",
+    "rule_id": "APC-003",
+    "category": "Dispensing Requirements",
+    "old_question": "في الاسكندرية للبترول، صورة روشتة مختوم ختم الشركة:"
+  },
+  {
+    "id": 323,
+    "question_id": "Q0323",
+    "company": "الاسكندرية للبترول",
+    "rule_id": "APC-015",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "في الاسكندرية للبترول، أقصى مدة علاج:"
+  },
+  {
+    "id": 335,
+    "question_id": "Q0335",
+    "company": "أموك",
+    "rule_id": "AMK-008",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "في أموك، أقصى مدة علاج:"
+  },
+  {
+    "id": 336,
+    "question_id": "Q0336",
+    "company": "أموك",
+    "rule_id": "AMK-009",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "في أموك، صلاحية الروشتة أو النموذج:"
+  },
+  {
+    "id": 341,
+    "question_id": "Q0341",
+    "company": "أنربك",
+    "rule_id": "ANR-009",
+    "category": "Dispensing Requirements",
+    "old_question": "في أنربك، نموذج العاملين باللون:"
+  },
+  {
+    "id": 342,
+    "question_id": "Q0342",
+    "company": "أنربك",
+    "rule_id": "ANR-010",
+    "category": "Dispensing Requirements",
+    "old_question": "في أنربك، نموذج الأسر باللون:"
+  },
+  {
+    "id": 356,
+    "question_id": "Q0356",
+    "company": "بترول أبو قير",
+    "rule_id": "ABQ-010",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في بترول أبو قير؟"
+  },
+  {
+    "id": 357,
+    "question_id": "Q0357",
+    "company": "بترول أبو قير",
+    "rule_id": "ABQ-011",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "ما الحد الأقصى لمدة الصرف في بترول أبو قير؟"
+  },
+  {
+    "id": 376,
+    "question_id": "Q0376",
+    "company": "بترولوج",
+    "rule_id": "PTL-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في بترولوج؟"
+  },
+  {
+    "id": 378,
+    "question_id": "Q0378",
+    "company": "بترولوج",
+    "rule_id": "PTL-003",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في بترولوج؟"
+  },
+  {
+    "id": 381,
+    "question_id": "Q0381",
+    "company": "بترومنت",
+    "rule_id": "PTM-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في بترومنت؟"
+  },
+  {
+    "id": 384,
+    "question_id": "Q0384",
+    "company": "بترومنت",
+    "rule_id": "PTM-005",
+    "category": "Dispensing Requirements",
+    "old_question": "في بترومنت، نموذج الشركة فارغ مختوم بختم الشركة المستطيل:"
+  },
+  {
+    "id": 401,
+    "question_id": "Q0401",
+    "company": "التعاون للبترول",
+    "rule_id": "TAP-011",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في التعاون للبترول؟"
+  },
+  {
+    "id": 402,
+    "question_id": "Q0402",
+    "company": "التعاون للبترول",
+    "rule_id": "TAP-012",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "في التعاون للبترول، مدة الصرف:"
+  },
+  {
+    "id": 412,
+    "question_id": "Q0412",
+    "company": "تكنولوجيا الأخشاب",
+    "rule_id": "WTC-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في تكنولوجيا الأخشاب؟"
+  },
+  {
+    "id": 416,
+    "question_id": "Q0416",
+    "company": "تكنولوجيا الأخشاب",
+    "rule_id": "WTC-005",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "في تكنولوجيا الأخشاب، مدة الصرف:"
+  },
+  {
+    "id": 420,
+    "question_id": "Q0420",
+    "company": "تويوتا مصر",
+    "rule_id": "TYT-002",
+    "category": "Dispensing Requirements",
+    "old_question": "في تويوتا مصر، ختم تويوتا الحي:"
+  },
+  {
+    "id": 422,
+    "question_id": "Q0422",
+    "company": "تويوتا مصر",
+    "rule_id": "TYT-004",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في تويوتا مصر؟"
+  },
+  {
+    "id": 435,
+    "question_id": "Q0435",
+    "company": "الحمرا أويل",
+    "rule_id": "HAM-003",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في الحمرا أويل؟"
+  },
+  {
+    "id": 438,
+    "question_id": "Q0438",
+    "company": "الحمرا أويل",
+    "rule_id": "HAM-006",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في الحمرا أويل؟"
+  },
+  {
+    "id": 446,
+    "question_id": "Q0446",
+    "company": "رشيد مشرق",
+    "rule_id": "RSM-003",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في رشيد مشرق؟"
+  },
+  {
+    "id": 450,
+    "question_id": "Q0450",
+    "company": "رشيد مشرق",
+    "rule_id": "RSM-007",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في رشيد مشرق؟"
+  },
+  {
+    "id": 455,
+    "question_id": "Q0455",
+    "company": "سيدبك",
+    "rule_id": "SDB-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في سيدبك؟"
+  },
+  {
+    "id": 460,
+    "question_id": "Q0460",
+    "company": "سيدبك",
+    "rule_id": "SDB-006",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "في سيدبك، أقصى مدة علاج:"
+  },
+  {
+    "id": 467,
+    "question_id": "Q0467",
+    "company": "سيسكو ترانس",
+    "rule_id": "SSC-005",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "في سيسكو ترانس، في حالة تحديد مدة:"
+  },
+  {
+    "id": 468,
+    "question_id": "Q0468",
+    "company": "سيسكو ترانس",
+    "rule_id": "SSC-006",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "في سيسكو ترانس، في حالة عدم تحديد مدة:"
+  },
+  {
+    "id": 475,
+    "question_id": "Q0475",
+    "company": "المصرية لصناعة الكيماويات",
+    "rule_id": "ECI-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في المصرية لصناعة الكيماويات؟"
+  },
+  {
+    "id": 480,
+    "question_id": "Q0480",
+    "company": "المصرية لصناعة الكيماويات",
+    "rule_id": "ECI-007",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "في المصرية لصناعة الكيماويات، مدة الصرف:"
+  },
+  {
+    "id": 484,
+    "question_id": "Q0484",
+    "company": "مياه الشرب بالاسكندرية",
+    "rule_id": "AWC-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما المطلوب في مياه الشرب بالاسكندرية؟"
+  },
+  {
+    "id": 486,
+    "question_id": "Q0486",
+    "company": "مياه الشرب بالاسكندرية",
+    "rule_id": "AWC-004",
+    "category": "Maximum Limit",
+    "old_question": "ما الحد الأقصى للصرف في مياه الشرب بالاسكندرية؟"
+  },
+  {
+    "id": 496,
+    "question_id": "Q0496",
+    "company": "العامرية لتكرير البترول",
+    "rule_id": "AMR-012",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "في العامرية لتكرير البترول، مدة الصرف:"
+  },
+  {
+    "id": 497,
+    "question_id": "Q0497",
+    "company": "العامرية لتكرير البترول",
+    "rule_id": "AMR-013",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "في العامرية لتكرير البترول، صلاحية الروشتة أو النموذج:"
+  },
+  {
+    "id": 503,
+    "question_id": "Q0503",
+    "company": "صيانكو",
+    "rule_id": "SYA-001",
+    "category": "Dispensing Requirements",
+    "old_question": "في تعاقد شركة صيانكو، ما هو الإجراء المترتب على عدم إرفاق صورة الكارنيه أو إرفاق كارنيه غير سارٍ؟"
+  },
+  {
+    "id": 506,
+    "question_id": "Q0506",
+    "company": "مؤسسة محمد رشيد",
+    "rule_id": "MRF-001",
+    "category": "Dispensing Requirements",
+    "old_question": "وفقًا لتعاقد مؤسسة محمد رشيد، ما هي الشروط المعتمدة لصرف روشتة خارجية؟"
+  },
+  {
+    "id": 509,
+    "question_id": "Q0509",
+    "company": "هيئة اصلاح السفن",
+    "rule_id": "SRA-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما هي مواصفات نموذج الصرف الإلزامي في تعاقد هيئة إصلاح السفن؟"
+  },
+  {
+    "id": 510,
+    "question_id": "Q0510",
+    "company": "هيئة الأبنية التعليمية",
+    "rule_id": "EBA-001",
+    "category": "Dispensing Requirements",
+    "old_question": "في تعاقد هيئة الأبنية التعليمية، ما هو الختم المميز الإلزامي الذي يجب تواجده على الروشتة أو النموذج؟"
+  },
+  {
+    "id": 512,
+    "question_id": "Q0512",
+    "company": "ويبكو",
+    "rule_id": "WBC-001",
+    "category": "Dispensing Requirements",
+    "old_question": "في تعاقد شركة ويبكو للبترول، ما هي ضوابط إدخال الكارتات على نظام الصيدلية؟"
+  },
+  {
+    "id": 513,
+    "question_id": "Q0513",
+    "company": "ويبكو",
+    "rule_id": "WBC-002",
+    "category": "Dispensing Requirements",
+    "old_question": "ما هي المستندات الثلاثية المطلوبة للصرف المعتمد في تعاقد شركة ويبكو؟"
+  },
+  {
+    "id": 514,
+    "question_id": "Q0514",
+    "company": "ايثيدكو",
+    "rule_id": "ETH-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما هي مستندات الصرف المعتمدة لشركة ايثيدكو للبتروكيماويات؟"
+  },
+  {
+    "id": 515,
+    "question_id": "Q0515",
+    "company": "البتروكيماويات المصرية",
+    "rule_id": "EPC-001",
+    "category": "Dispensing Requirements",
+    "old_question": "وفقًا لتعاقد شركة البتروكيماويات المصرية، ما هو الشرط الأساسي الحاسم لصرف علاج أسر العاملين؟"
+  },
+  {
+    "id": 516,
+    "question_id": "Q0516",
+    "company": "بتروجت",
+    "rule_id": "PTG-001",
+    "category": "General / Header Notes",
+    "old_question": "ما هو التاريخ النهائي الشهري المعتمد للصرف المجمع لتعاقدات شركة بتروجت؟"
+  },
+  {
+    "id": 519,
+    "question_id": "Q0519",
+    "company": "الرقابة الادارية",
+    "rule_id": "ACA-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما هي المستندات الرسمية المقبولة للصرف في تعاقد هيئة الرقابة الإدارية؟"
+  },
+  {
+    "id": 521,
+    "question_id": "Q0521",
+    "company": "اكبا",
+    "rule_id": "ACB-001",
+    "category": "Dispensing Requirements",
+    "old_question": "في تعاقد شركة اكبا، كيف يتم التمييز بين نماذج الصرف المعتمدة؟"
+  },
+  {
+    "id": 522,
+    "question_id": "Q0522",
+    "company": "منصور الدولية للتوزيع",
+    "rule_id": "MNS-001",
+    "category": "Dispensing Requirements",
+    "old_question": "ما هي نسبة التحمل المقررة لجميع الأدوية في تعاقد شركة منصور الدولية للتوزيع؟"
+  },
+  {
+    "id": 4,
+    "question_id": "Q0004",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-006",
+    "category": "Dispensing Requirements",
+    "old_question": "ما مستند الموافقة المطلوب من سيستم أكسا؟"
+  },
+  {
+    "id": 6,
+    "question_id": "Q0006",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-011",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "ما الحد الأقصى لمدة الصرف في أكسا؟"
+  },
+  {
+    "id": 7,
+    "question_id": "Q0007",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-012",
+    "category": "Dispensing Duration & Validity",
+    "old_question": "ما صلاحية نموذج أكسا؟"
+  },
+  {
+    "id": 9,
+    "question_id": "Q0009",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-014",
+    "category": "Special Instructions",
+    "old_question": "ماذا يجب إدخاله بخصوص التشخيصات في أكسا؟"
+  },
+  {
+    "id": 10,
+    "question_id": "Q0010",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-016",
+    "category": "Special Instructions",
+    "old_question": "ما المطلوب على أي تعديل في أكسا؟"
+  },
+  {
+    "id": 13,
+    "question_id": "Q0013",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-021",
+    "category": "Special Instructions",
+    "old_question": "في أكسا، عند قرب انتهاء صلاحية الكارنيه (ex-date)، ما الإجراء؟"
+  },
+  {
+    "id": 16,
+    "question_id": "Q0016",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-025",
+    "category": "Approvals",
+    "old_question": "هل تسمح أكسا بالموافقات التليفونية؟"
+  },
+  {
+    "id": 19,
+    "question_id": "Q0019",
+    "company": "الأهلي للخدمات الطبية",
+    "rule_id": "AMS-005",
+    "category": "General / Header Notes",
+    "old_question": "هل يُعتد بالنوتس الموجودة في الـattachment في الأهلي؟"
+  },
+  {
+    "id": 20,
+    "question_id": "Q0020",
+    "company": "الأهلي للخدمات الطبية",
+    "rule_id": "AMS-006",
+    "category": "Dispensing Requirements",
+    "old_question": "ما النموذج المطلوب في الأهلي؟"
+  },
+  {
+    "id": 24,
+    "question_id": "Q0024",
+    "company": "الأهلي للخدمات الطبية",
+    "rule_id": "AMS-010",
+    "category": "Dispensing Requirements",
+    "old_question": "ما الوثائق المطلوبة في الأهلي؟"
+  }
+]

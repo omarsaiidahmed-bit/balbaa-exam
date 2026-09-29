@@ -1,0 +1,452 @@
+[
+  {
+    "question_id": "Q0341",
+    "company": "أنربك",
+    "rule_id": "ANR-009",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف | يتم الصرف علي:] نموذج العاملين باللون الأزرق",
+    "sourceText": "◆ يتم الصرف علي: ⏎ • نموذج العاملين باللون الأزرق",
+    "sourceLoc": "Line 1049 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0342",
+    "company": "أنربك",
+    "rule_id": "ANR-010",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف | يتم الصرف علي:] نموذج الاسر باللون الاخضر",
+    "sourceText": "◆ يتم الصرف علي: ⏎ • نموذج الاسر باللون الاخضر",
+    "sourceLoc": "Line 1050 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0356",
+    "company": "بترول أبو قير",
+    "rule_id": "ABQ-010",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] لا يوجد",
+    "sourceText": "• لا يوجد",
+    "sourceLoc": "Line 1103 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0357",
+    "company": "بترول أبو قير",
+    "rule_id": "ABQ-011",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] مدة الصرف: بحد أقصى شهر واحد",
+    "sourceText": "• مدة الصرف: بحد أقصى شهر واحد",
+    "sourceLoc": "Line 1106 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0376",
+    "company": "بترولوج",
+    "rule_id": "PTL-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة كارنيه.",
+    "sourceText": "• صورة كارنيه.",
+    "sourceLoc": "Line 1151 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0378",
+    "company": "بترولوج",
+    "rule_id": "PTL-003",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] لا يوجد",
+    "sourceText": "• لا يوجد",
+    "sourceLoc": "Line 1155 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0381",
+    "company": "بترومنت",
+    "rule_id": "PTM-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة كارنيه العضو او بطاقة الرقم القومي",
+    "sourceText": "• صورة كارنيه العضو او بطاقة الرقم القومي",
+    "sourceLoc": "Line 1176 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0384",
+    "company": "بترومنت",
+    "rule_id": "PTM-005",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج الشركة فارغ مختوم بختم الشركة المستطيل + أصل روشتة خارجية مختومة بختم جهة طبية",
+    "sourceText": "• نموذج الشركة فارغ مختوم بختم الشركة المستطيل + أصل روشتة خارجية مختومة بختم جهة طبية",
+    "sourceLoc": "Line 1180 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0401",
+    "company": "التعاون للبترول",
+    "rule_id": "TAP-011",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] لا يوجد",
+    "sourceText": "• لا يوجد",
+    "sourceLoc": "Line 1218 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0402",
+    "company": "التعاون للبترول",
+    "rule_id": "TAP-012",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] مدة الصرف: يصرف الجرعة المحددة",
+    "sourceText": "• مدة الصرف: يصرف الجرعة المحددة",
+    "sourceLoc": "Line 1221 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0412",
+    "company": "تكنولوجيا الأخشاب",
+    "rule_id": "WTC-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة كارنيه + بطاقة رقم قومي",
+    "sourceText": "• صورة كارنيه + بطاقة رقم قومي",
+    "sourceLoc": "Line 1259 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0416",
+    "company": "تكنولوجيا الأخشاب",
+    "rule_id": "WTC-005",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] مدة الصرف: المدة المحددة بحد أقصى شهرفى حالة عدم التحديد يتم صرف لمدة اسبوع.",
+    "sourceText": "• مدة الصرف: المدة المحددة بحد أقصى شهرفى حالة عدم التحديد يتم صرف لمدة اسبوع.",
+    "sourceLoc": "Line 1267 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0420",
+    "company": "تويوتا مصر",
+    "rule_id": "TYT-002",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] ختم تويوتا الحي علي الروشتة او النموذج او الصورة شرط اساسي",
+    "sourceText": "• ختم تويوتا الحي علي الروشتة او النموذج او الصورة شرط اساسي",
+    "sourceLoc": "Line 1283 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0422",
+    "company": "تويوتا مصر",
+    "rule_id": "TYT-004",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] لا يوجد",
+    "sourceText": "• لا يوجد",
+    "sourceLoc": "Line 1287 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0435",
+    "company": "الحمرا أويل",
+    "rule_id": "HAM-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة الكارنيه + بطاقة",
+    "sourceText": "• صورة الكارنيه + بطاقة",
+    "sourceLoc": "Line 1323 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0438",
+    "company": "الحمرا أويل",
+    "rule_id": "HAM-006",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] لا يوجد",
+    "sourceText": "• لا يوجد",
+    "sourceLoc": "Line 1328 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0446",
+    "company": "رشيد مشرق",
+    "rule_id": "RSM-003",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة كارنيه ساري.",
+    "sourceText": "• صورة كارنيه ساري.",
+    "sourceLoc": "Line 1356 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0450",
+    "company": "رشيد مشرق",
+    "rule_id": "RSM-007",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] لا يوجد حد اقصي",
+    "sourceText": "• لا يوجد حد اقصي",
+    "sourceLoc": "Line 1363 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0455",
+    "company": "سيدبك",
+    "rule_id": "SDB-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة كارنيه المستفيد (كارنيه العامل يغني عن كارنيه المستفيد)+بطاقة الرقم القومي.",
+    "sourceText": "• صورة كارنيه المستفيد (كارنيه العامل يغني عن كارنيه المستفيد)+بطاقة الرقم القومي.",
+    "sourceLoc": "Line 1395 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0460",
+    "company": "سيدبك",
+    "rule_id": "SDB-006",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] مدة الصرف: أقصي مدة علاج هي شهر واحد و في حالة عدم تحديد مدة أو جرعة يتم صرف علبة من كل نوع.",
+    "sourceText": "• مدة الصرف: أقصي مدة علاج هي شهر واحد و في حالة عدم تحديد مدة أو جرعة يتم صرف علبة من كل نوع.",
+    "sourceLoc": "Line 1404 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0467",
+    "company": "سيسكو ترانس",
+    "rule_id": "SSC-005",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] مدة الصرف: في حالة تحديد مدة يتم صرف 14 يوم بحد اقصي",
+    "sourceText": "• مدة الصرف: في حالة تحديد مدة يتم صرف 14 يوم بحد اقصي",
+    "sourceLoc": "Line 1427 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0468",
+    "company": "سيسكو ترانس",
+    "rule_id": "SSC-006",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] وفي حالة عدم تحديد مدة يتم صرف شريط واحد فقط.(وايضا نخلي بالنا من موافقة الميل)",
+    "sourceText": "• وفي حالة عدم تحديد مدة يتم صرف شريط واحد فقط.(وايضا نخلي بالنا من موافقة الميل)",
+    "sourceLoc": "Line 1428 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0475",
+    "company": "المصرية لصناعة الكيماويات",
+    "rule_id": "ECI-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة الكارنيه للعامل عامل وللمستفيد مستفيد ساري",
+    "sourceText": "• صورة الكارنيه للعامل عامل وللمستفيد مستفيد ساري",
+    "sourceLoc": "Line 1457 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0480",
+    "company": "المصرية لصناعة الكيماويات",
+    "rule_id": "ECI-007",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] مدة الصرف: بحد أقصى شهر",
+    "sourceText": "• مدة الصرف: بحد أقصى شهر",
+    "sourceLoc": "Line 1467 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0484",
+    "company": "مياه الشرب بالاسكندرية",
+    "rule_id": "AWC-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة البطاقة + صورة كارنيه المستفيد.",
+    "sourceText": "• صورة البطاقة + صورة كارنيه المستفيد.",
+    "sourceLoc": "Line 1485 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0486",
+    "company": "مياه الشرب بالاسكندرية",
+    "rule_id": "AWC-004",
+    "category": "Maximum Limit",
+    "ruleText": "[الحد الأقصى للصرف] لا يوجد",
+    "sourceText": "• لا يوجد",
+    "sourceLoc": "Line 1490 | Section: الحد الأقصى للصرف"
+  },
+  {
+    "question_id": "Q0496",
+    "company": "العامرية لتكرير البترول",
+    "rule_id": "AMR-012",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] مدة الصرف: بحد أقصى شهر في حالة عدم تحديد مدة يتم صرف الحجم الاصغر والتركيز الاقل في حالة عدم تحديد التركيز وصرف علبة واحدة فقط في عدم تحديد مدة.",
+    "sourceText": "• مدة الصرف: بحد أقصى شهر في حالة عدم تحديد مدة يتم صرف الحجم الاصغر والتركيز الاقل في حالة عدم تحديد التركيز وصرف علبة واحدة فقط في عدم تحديد مدة.",
+    "sourceLoc": "Line 1529 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0497",
+    "company": "العامرية لتكرير البترول",
+    "rule_id": "AMR-013",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] صلاحية الروشتة أو النموذج: شهر من تاريخه. حالة عدم تحديد مدة يصرف علبة من كل نوع فيما لا يتعدي الشهر",
+    "sourceText": "• صلاحية الروشتة أو النموذج: شهر من تاريخه. حالة عدم تحديد مدة يصرف علبة من كل نوع فيما لا يتعدي الشهر",
+    "sourceLoc": "Line 1530 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0503",
+    "company": "صيانكو",
+    "rule_id": "SYA-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "",
+    "sourceText": "",
+    "sourceLoc": ""
+  },
+  {
+    "question_id": "Q0506",
+    "company": "مؤسسة محمد رشيد",
+    "rule_id": "MRF-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج الشركة الأبيض أو روشتة خارجية مختومة بختم المؤسسة+امضاء د/حسام الدين.",
+    "sourceText": "• نموذج الشركة الأبيض أو روشتة خارجية مختومة بختم المؤسسة+امضاء د/حسام الدين.",
+    "sourceLoc": "Line 1695 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0509",
+    "company": "هيئة اصلاح السفن",
+    "rule_id": "SRA-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج الشركة مختوم بختم أزرق حي و يتم كتابة الأدوية المدونة علي الروشتة الخارجية فقط علي النموذج و لابد من مطابقة الريسيت مع النموذج",
+    "sourceText": "• نموذج الشركة مختوم بختم أزرق حي و يتم كتابة الأدوية المدونة علي الروشتة الخارجية فقط علي النموذج و لابد من مطابقة الريسيت مع النموذج",
+    "sourceLoc": "Line 1764 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0510",
+    "company": "هيئة الأبنية التعليمية",
+    "rule_id": "EBA-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] روشتة خارجية او نموذج مع وجود ختم جهة طبية و ختم الابنية الاحمر",
+    "sourceText": "• روشتة خارجية او نموذج مع وجود ختم جهة طبية و ختم الابنية الاحمر",
+    "sourceLoc": "Line 1795 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0512",
+    "company": "ويبكو",
+    "rule_id": "WBC-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] يتم ادخال الكارتات صح اجباري (عاملين كارتة ويبكو عاملين واسر ويبكو اسر)",
+    "sourceText": "يتم ادخال الكارتات صح اجباري (عاملين كارتة ويبكو عاملين واسر ويبكو اسر)",
+    "sourceLoc": "Line 1853 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0513",
+    "company": "ويبكو",
+    "rule_id": "WBC-002",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة الكارنيه + الرقم القومي + توقيع العامل.",
+    "sourceText": "• صورة الكارنيه + الرقم القومي + توقيع العامل.",
+    "sourceLoc": "Line 1856 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0514",
+    "company": "ايثيدكو",
+    "rule_id": "ETH-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] روشتة خارجية اصل او نموذج شركة اصل",
+    "sourceText": "1. روشتة خارجية اصل او نموذج شركة اصل",
+    "sourceLoc": "Line 1889 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0515",
+    "company": "البتروكيماويات المصرية",
+    "rule_id": "EPC-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] ارفاق صورة بطاقة المستلم شرط اساسي جدا للصرف",
+    "sourceText": "ارفاق صورة بطاقة المستلم شرط اساسي جدا للصرف",
+    "sourceLoc": "Line 1910 | Section: أعلى قسم الشركة (قبل العناوين) ; also Lines 1953-1953"
+  },
+  {
+    "question_id": "Q0516",
+    "company": "بتروجت",
+    "rule_id": "PTG-001",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] لا يتم الصرف المجمع اللي من التعاقدات بعد يوم 20 في الشهر اللي بعده بمعني روشتة شهر 7 اخرها 20-7 وهكذا لاني بسلم الروشتات للفروع في الشهر اللي قبله.",
+    "sourceText": "لا يتم الصرف المجمع اللي من التعاقدات بعد يوم 20 في الشهر اللي بعده بمعني روشتة شهر 7 اخرها 20-7 وهكذا لاني بسلم الروشتات للفروع في الشهر اللي قبله.",
+    "sourceLoc": "Line 1964 | Section: أعلى قسم الشركة (قبل العناوين)"
+  },
+  {
+    "question_id": "Q0519",
+    "company": "الرقابة الادارية",
+    "rule_id": "ACA-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] روشتة خارجية او نموذج شركة او صورة نموذج أو صورة روشتة مختومة ختم شركة",
+    "sourceText": "1. روشتة خارجية او نموذج شركة او صورة نموذج أو صورة روشتة مختومة ختم شركة",
+    "sourceLoc": "Line 2059 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0521",
+    "company": "اكبا",
+    "rule_id": "ACB-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج اكبا سواء (عاملين لصرف العاملين –اسري لصرف الاسر) مختوم ختم الشركة +ختم الجهة الطبية",
+    "sourceText": "1. نموذج اكبا سواء (عاملين لصرف العاملين –اسري لصرف الاسر) مختوم ختم الشركة +ختم الجهة الطبية",
+    "sourceLoc": "Line 2110 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0522",
+    "company": "منصور الدولية للتوزيع",
+    "rule_id": "MNS-001",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] الاطلاع علي اصل الكارنيه واخذ صورة منه وشرط يكون ساري",
+    "sourceText": "• الاطلاع علي اصل الكارنيه واخذ صورة منه وشرط يكون ساري",
+    "sourceLoc": "Line 2138 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0004",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-006",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] موافقة (EOB) من السيستم موضح بها الأصناف و الكميات الموافق عليها",
+    "sourceText": "• موافقة (EOB) من السيستم موضح بها الأصناف و الكميات الموافق عليها",
+    "sourceLoc": "Line 77 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0006",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-011",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] مدة الصرف: بحد أقصى 28 يوم و في حالة عدم تحديد مدة يتم صرف علبة من الصنف على ألا تتعدى العلبة مدة 28 يوم.",
+    "sourceText": "• مدة الصرف: بحد أقصى 28 يوم و في حالة عدم تحديد مدة يتم صرف علبة من الصنف على ألا تتعدى العلبة مدة 28 يوم.",
+    "sourceLoc": "Line 86 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0007",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-012",
+    "category": "Dispensing Duration & Validity",
+    "ruleText": "[مدة الصرف وصلاحية الروشتة] صلاحية النموذج: 14 يوم من تاريخه",
+    "sourceText": "• صلاحية النموذج: 14 يوم من تاريخه",
+    "sourceLoc": "Line 87 | Section: مدة الصرف وصلاحية الروشتة"
+  },
+  {
+    "question_id": "Q0009",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-014",
+    "category": "Special Instructions",
+    "ruleText": "[تعليمات خاصة] يتم ادخال كل التشخيصات المكتوبة.",
+    "sourceText": "• يتم ادخال كل التشخيصات المكتوبة.",
+    "sourceLoc": "Line 93 | Section: تعليمات خاصة"
+  },
+  {
+    "question_id": "Q0010",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-016",
+    "category": "Special Instructions",
+    "ruleText": "[تعليمات خاصة] يجب و جود ختم على اى تعديل.",
+    "sourceText": "• يجب و جود ختم على اى تعديل.",
+    "sourceLoc": "Line 95 | Section: تعليمات خاصة"
+  },
+  {
+    "question_id": "Q0013",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-021",
+    "category": "Special Instructions",
+    "ruleText": "[تعليمات خاصة] في حالة ex-date الكارنيه قرب يتم ادخال الكميات المطلوبة وانتظار قبول او رفض السيستم.",
+    "sourceText": "• في حالة ex-date الكارنيه قرب يتم ادخال الكميات المطلوبة وانتظار قبول او رفض السيستم.",
+    "sourceLoc": "Line 100 | Section: تعليمات خاصة"
+  },
+  {
+    "question_id": "Q0016",
+    "company": "أكسا (Axa)",
+    "rule_id": "AXA-025",
+    "category": "Approvals",
+    "ruleText": "[الموافقات] لا يوجد موافقات تليفونية",
+    "sourceText": "• لا يوجد موافقات تليفونية",
+    "sourceLoc": "Line 109 | Section: الموافقات"
+  },
+  {
+    "question_id": "Q0019",
+    "company": "الأهلي للخدمات الطبية",
+    "rule_id": "AMS-005",
+    "category": "General / Header Notes",
+    "ruleText": "[أعلى قسم الشركة (قبل العناوين)] لايعتد بالنوتس اللي في attachment",
+    "sourceText": "لايعتد بالنوتس اللي في attachment",
+    "sourceLoc": "Line 120 | Section: أعلى قسم الشركة (قبل العناوين) ; also Lines 157-157"
+  },
+  {
+    "question_id": "Q0020",
+    "company": "الأهلي للخدمات الطبية",
+    "rule_id": "AMS-006",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] نموذج الأهلي للخدمات الطبية (نسخة الصيدلية الزرقاء)",
+    "sourceText": "1. نموذج الأهلي للخدمات الطبية (نسخة الصيدلية الزرقاء)",
+    "sourceLoc": "Line 123 | Section: متطلبات الصرف"
+  },
+  {
+    "question_id": "Q0024",
+    "company": "الأهلي للخدمات الطبية",
+    "rule_id": "AMS-010",
+    "category": "Dispensing Requirements",
+    "ruleText": "[متطلبات الصرف] صورة كارنيه المستفيد + صورة بطاقة الرقم القومي",
+    "sourceText": "2. صورة كارنيه المستفيد + صورة بطاقة الرقم القومي",
+    "sourceLoc": "Line 127 | Section: متطلبات الصرف"
+  }
+]
